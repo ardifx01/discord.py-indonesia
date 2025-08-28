@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ZaaakW/discord.py-indonesia/releases"><img src="https://img.shields.io/github/v/release/ZaaakW/discord.py-indonesia"></a>
-  <a href="https://github.com/kkrypt0nn/Python-Discord-Bot-Template/commits/main"><img src="https://img.shields.io/github/last-commit/kkrypt0nn/Python-Discord-Bot-Template"></a>
+  <a href="https://github.com/ZaaakW/discord.py-indonesia/commits/main"><img src="https://img.shields.io/github/last-commit/ZaaakW/discord.py-indonesia"></a>
   <a href="https://github.com/ZaaakW/discord.py-indonesia/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/ZaaakW/discord.py-indonesia"></a>
   <a href="https://github.com/ZaaakW/discord.py-indonesia"><img src="https://img.shields.io/github/languages/code-size/ZaaakW/discord.py-indonesia"></a>
   <a href="https://conventionalcommits.org/en/v1.0.0/"><img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white"></a>
